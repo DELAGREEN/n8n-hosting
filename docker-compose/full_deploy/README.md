@@ -1,4 +1,4 @@
-# N8N Полное развертывание для self hosting and tunel
+# N8N Полное развертывание для self hosting and tunel and Telegram bot wed hooks 
 
 ## Если есть проблемы
 
