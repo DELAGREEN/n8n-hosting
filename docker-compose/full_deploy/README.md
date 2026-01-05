@@ -24,3 +24,9 @@ docker-compose restart n8n
 ```
 chmod +x init-data.sh
 ```
+
+# Тунель
+
+Для примера можно использовать https://cloudpub.ru/
+
+Это позволит взаимодействовать с n8n установленным локально, не имеющий зарегистрированный domain_name и настроенный TLS(SSL)
